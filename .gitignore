@@ -24,9 +24,7 @@ cache/
 # ==============================
 # 📊 Data files (optional - important decision)
 # ==============================
-data/processed/
-*.npy
-*.csv
+
 
 # If raw data is large, ignore it too
 # data/raw/
